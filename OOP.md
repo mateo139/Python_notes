@@ -3,6 +3,7 @@
 Source:
 ```
 https://www.youtube.com/watch?list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn&v=pnWINBJ3-yA
+https://www.programiz.com/python-programming/
 ```
 **Concept of classes**
 ![image](https://user-images.githubusercontent.com/103432222/225955560-7c2087ff-5005-4e2c-8893-7b124fd70856.png)

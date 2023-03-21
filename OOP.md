@@ -4,6 +4,7 @@ Source:
 ```
 https://www.youtube.com/watch?list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn&v=pnWINBJ3-yA
 https://www.programiz.com/python-programming/
+https://realpython.com/lessons/classes-python/
 ```
 **Concept of classes**
 ![image](https://user-images.githubusercontent.com/103432222/225955560-7c2087ff-5005-4e2c-8893-7b124fd70856.png)
@@ -20,6 +21,9 @@ https://www.programiz.com/python-programming/
 ![image](https://user-images.githubusercontent.com/103432222/226093202-bd6eac13-0537-447c-a911-33b772ccb50d.png)
 
 ![image](https://user-images.githubusercontent.com/103432222/225964851-ace9c380-0f22-43f5-a2f8-0377107f84c6.png)
+
+![image](https://user-images.githubusercontent.com/103432222/226587384-e3aa81f9-0b9a-4f64-a64f-d63b678722ce.png)
+
 
 ## **TASK**
 
